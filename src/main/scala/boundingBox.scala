@@ -2,6 +2,8 @@ package edu.luc.cs.laufer.cs371.shapes
 
 // TODO: implement this behavior
 
+// Test commit
+
 import Shape.*
 
 object boundingBox:
